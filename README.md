@@ -1,23 +1,23 @@
-## [Anydl Robot](https://telegram.dog/Anydl)
+## [file to vod bot](https://telegram.dog/filetovodbot)
 ---
 
 An Open Source Telegram RoBot  😍
 
 ### Special thanks
 
-* [@Spechide](https://telegram.dog/spechide)
+* [@kingt10](https://telegram.dog/kingt10)
 
 ### Installation
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/parth-tiwari10/file-to-video-convertor-bot)
 
 ## Our Telegram Channel and Group
 
-* [Dx Bots Updates](https://telegram.dog/Dx_Botz)
+* [hindispot_family](https://telegram.dog/hindispot_family)
 
-* [InFoTel Group](https://telegram.dog/InFoTelGroup)
+* [kingt10](https://telegram.dog/hindispotfamily)
 
 
 ### [@BotFather](https://telegram.dog/BotFather) Commands
